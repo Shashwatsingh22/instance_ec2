@@ -1,6 +1,6 @@
 galaxy_info:
   author: shashwat singh
-  description: launch the instance the on aws cloud as per your reqirement and also i have provided the idea as using the credentials by the help of ansible vault
+  description: launch the instance the on aws cloud as per your reqirement.
   company: master cluster
 
   # If the issue tracker for your role is not on github, uncomment the
